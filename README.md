@@ -1,4 +1,4 @@
-# Fibonacci Heap Key Implementation 
+# Fibonacci Heap - Java Implementation
 
 ## Students:
 1. Shlomi Afergan
