@@ -1,5 +1,5 @@
-#Fibonacci Heap Key Implementation 
+# Fibonacci Heap Key Implementation 
 
-##Students:
+## Students:
 1. Shlomi Afergan
 2. Guy Bilitski
